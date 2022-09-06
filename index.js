@@ -25,7 +25,7 @@ var q3 = {
 }
 
 var q4 = {
-  q: "Fastest Aircraft in the World():",
+  q: "Fastest Aircraft in the World(any category):",
   a: "Lockheed"
 }
 
